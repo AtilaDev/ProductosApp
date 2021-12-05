@@ -1,5 +1,5 @@
-import { StackScreenProps } from '@react-navigation/stack';
 import React from 'react';
+import { StackScreenProps } from '@react-navigation/stack';
 import {
   View,
   Text,
